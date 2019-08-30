@@ -1,0 +1,3 @@
+TEACHER = "T"
+PARENT = "P"
+STUDENT = "S"
